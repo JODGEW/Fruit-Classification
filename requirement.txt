@@ -1,5 +1,7 @@
-torch
-torchvision
-cv2
-matplotlib
-numpy
+py==3.9.13
+torch==2.0.0
+torch-summary==1.4.4+
+torchvision==0.15.1
+cv2==4.7.0
+matplotlib==3.6.2
+numpy==1.23.5
