@@ -1,6 +1,6 @@
 # Fruit Classification Project
 
-Fruit Classification Project is It's able to identify different categories of fruits and vegetables of Fruits-360 dataset on Kaggle. 
+Fruit Classification Project It is able to identify different categories of fruits and vegetables of Fruits-360 dataset on Kaggle. 
 
 ## Installation
 1. Run the following command to install all of the Python packages listed in requirements.txt file
