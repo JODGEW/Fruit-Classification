@@ -20,7 +20,7 @@ Please make sure to update tests as appropriate.
 
 ## Reference
 
-[Fruit-360](Fruits-360 on Kaggle: https://www.kaggle.com/datasets/moltean/fruits)
+[Fruit-360](https://www.kaggle.com/datasets/moltean/fruits)
 
 [Convolution Neural Netowork structure](https://www.kaggle.com/code/darkwyvern/fruits360-pytorch-cnn/notebook)
 
